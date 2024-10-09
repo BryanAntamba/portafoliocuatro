@@ -18,7 +18,7 @@ body {
 
 /*Se cambiara tanto el tipo de letra, tambien el color del fondo*/
 body {
-    background: #050505;
+    background: #050505f6;
     /*Seleccionar el tipo de letra en funcion al codio en base*/
     font-family: 'Afacad+Flux', ;
     /*La etiqueta rem va a coger el tamaño padre que es 16px y lo multiplicara por 1.7*/
@@ -72,7 +72,7 @@ h6 .h1,
     font-weight: 500;
     font-style: normal;
     color: #fff;
-/*Faltan 2 caracteristicas*/
+    /*Faltan 2 caracteristicas*/
 }
 
 h1,
